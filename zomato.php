@@ -2,8 +2,8 @@
 /*
 	Plugin Name: Zomato User Widget
 	Plugin URI: http://www.zomato.com
-	Description: Zomato User Widget for fluanting your foodie stats
-	Version: 1.0.0
+	Description: A simple widget that enables you to flaunt your Zomato foodie stats!
+	Version: 1.1.0
 	Author: Zomato
 	Author URI: http://www.zomato.com/team
 	License: GPLv2 or later
@@ -123,7 +123,7 @@ class Zomato_User_Widget extends WP_Widget {
 
 		// Define default values for your variables
 		$defaults = array(
-			'title'   => 'My Zomato Profile',
+			'title'   => 'Zomato User Widget',
 			'user_id' => '',
 			'powered' => false,
 			'lang'    => 'en',
