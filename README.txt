@@ -1,6 +1,7 @@
 === Zomato User Widget ===
 Contributors: ZomatoProduct
 Tags: zomato, user widget, user profile, widget, plugin
+Tags: zomato, user widget, user profile, widget
 Requires at least: 3.3.1
 Tested up to: 3.8.1
 Stable tag: 1.1.1
