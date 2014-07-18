@@ -1,6 +1,6 @@
 === Zomato User Widget ===
 Contributors: ZomatoProduct
-Tags: zomato, user widget, user profile, widget
+Tags: zomato, user widget, user profile, widget, plugin
 Requires at least: 3.3.1
 Tested up to: 3.8.1
 Stable tag: 1.1.0
@@ -19,7 +19,7 @@ Get the Zomato widget and share your foodie journey on Zomato with everyone who 
 * Portuguese
 
 = Technical Support =
-* Have an issue? Shoot us a mail at [support@zomato.com](mailto:support@zomato.com)
+* Facing an issue? Shoot us a mail at [support@zomato.com](mailto:support@zomato.com)
 
 == Installation ==
 1. Upload the unzipped `zomato.zip` file to your `/wp-content/plugins/` directory.
