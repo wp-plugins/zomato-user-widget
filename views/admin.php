@@ -15,5 +15,6 @@
     <option value="id" <?php if ( $lang == 'id' ) echo 'selected="selected"'; ?>>Indonesian</option>
     <option value="tr" <?php if ( $lang == 'tr' ) echo 'selected="selected"'; ?>>Turkish</option>
     <option value="pt" <?php if ( $lang == 'pt' ) echo 'selected="selected"'; ?>>Portuguese</option>
+    <option value="es" <?php if ( $lang == 'es' ) echo 'selected="selected"'; ?>>Spanish</option>
   </select>
 </p>
