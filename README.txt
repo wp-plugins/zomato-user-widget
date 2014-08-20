@@ -30,8 +30,9 @@ Get the Zomato widget and share your foodie journey on Zomato with everyone who 
 4. Add it to the desired section in your blog or website.
 
 == Changelog ==
+
 = 1.3.1 =
-* mpved to secure API endpoint
+* secure API endpoint
 
 = 1.3.0  =
 * Add support for Spanish
