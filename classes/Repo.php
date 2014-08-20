@@ -5,7 +5,7 @@ use Exception;
 class Repo {
 
   private $_version  = "v1";
-  private $_endpoint = "http://www.zomato.com/user-widget";
+  private $_endpoint = "https://www.zomato.com/user-widget";
 
 
   public function getUser( $user_id, $user_lang )

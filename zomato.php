@@ -3,7 +3,7 @@
 	Plugin Name: Zomato User Widget
 	Plugin URI: http://www.zomato.com
 	Description: A simple widget that enables you to flaunt your Zomato foodie stats!
-	Version: 1.3.0
+	Version: 1.3.1
 	Author: Zomato
 	Author URI: http://www.zomato.com/team
 	License: GPLv2 or later
