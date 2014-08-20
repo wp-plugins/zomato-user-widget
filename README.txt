@@ -4,7 +4,7 @@ Tags: zomato, user widget, user profile, widget, plugin
 Tags: zomato, user widget, user profile, widget
 Requires at least: 3.3.1
 Tested up to: 3.9.1
-Stable tag: 1.3.0
+Stable tag: 1.3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -30,6 +30,9 @@ Get the Zomato widget and share your foodie journey on Zomato with everyone who 
 4. Add it to the desired section in your blog or website.
 
 == Changelog ==
+= 1.3.1 =
+* mpved to secure API endpoint
+
 = 1.3.0  =
 * Add support for Spanish
 
